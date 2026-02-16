@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="180" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+
+
 ## Hi there 👋
 
 **CrossXCodes** Here!!!
@@ -11,4 +17,14 @@ Here are some ideas to get you started:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 🤔 I’m looking for help with learning new things in CyberSecurity.
 - ⚡ Fun fact: I like to watch F1 🏎️💨
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrossXCodes/CrossXCodes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrossXCodes/CrossXCodes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrossXCodes/CrossXCodes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
