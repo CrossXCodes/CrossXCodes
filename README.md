@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-**CrossXCodes** Here!!!
+**CrossX** Here!!!
 
 Here are some ideas to get you started:
 
