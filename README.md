@@ -1,22 +1,20 @@
-<div align="center">
-  <img src="image/Banner.jpg">
-</div>
+## Hi there **CrossX** here!!!
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here to get started...  
 
-
-## Hi there!!
-
-**CrossX** Here!!!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on build career in CyberSecurity!!!
-- 🌱 I’m currently learning:
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 🤔 I’m looking for help with learning new things in CyberSecurity.
-- ⚡ Fun fact: I like to watch F1 🏎️💨
+```javascript
+const crossx = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Python],
+  learning: [Javascript, C],
+  likesTo: ["Watch F1", "Code", "Gamble"],
+  MoreAboutMe: {
+                        occupation: "Undergrad",
+                        location: "Clouds"
+                      },
+ FunFact: "The first computer virus was created in 1983!"
+}
+```
 
 
 ###
@@ -28,3 +26,12 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
+
+
+````bash
+> help --contact
+> linkedin: yet to create
+> github: CrossXCodes
+> mailto: xyz@
+````
