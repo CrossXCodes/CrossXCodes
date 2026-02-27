@@ -12,7 +12,7 @@ const crossx = {
                         occupation: "Undergrad",
                         location: "Clouds"
                       },
- FunFact: "The first computer virus was created in 1983!"
+ FunFact: "The first computer virus was created in 1971!"
 }
 ```
 
