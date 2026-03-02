@@ -31,7 +31,7 @@ const crossx = {
 
 ````bash
 > help --contact
-> linkedin: yet to create
+> linkedin: anom meshram
 > github: CrossXCodes
 > hackerrank: @anommeshram2006
 > leetcode: CrossXCodes
