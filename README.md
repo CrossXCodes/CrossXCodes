@@ -6,7 +6,7 @@
 const crossx = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python],
-  learning: [Javascript, C],
+  learning: [Javascript, C, Music Producing],
   likesTo: ["Watch F1", "Code", "Gamble"],
   MoreAboutMe: {
                         occupation: "Undergrad",
